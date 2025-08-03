@@ -5,10 +5,6 @@ defaultTargets = ["playground"]
 [[lean_lib]]
 name = "Playground"
 
-[[lean_exe]]
-name = "playground"
-root = "Main"
-
 [[require]]
 name = "REPL"
 git = "https://github.com/leanprover-community/repl.git"
