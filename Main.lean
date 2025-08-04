@@ -1,1 +1,2 @@
-def main : IO Unit := IO.println "Hello, world!"
+def main : IO Unit
+  := IO.println "Hello, world!"
